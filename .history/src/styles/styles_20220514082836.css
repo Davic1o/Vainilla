@@ -77,17 +77,12 @@ body {
   border-radius: 100px;
 }
 .Character-item img:hover {
-  -webkit-transform: rotateY(90deg);
+  -webkit-transform: rotateX(180deg);
   -webkit-transform-style: preserve-3d;
-  transform: rotateX(360deg);
+  transform: rotateY(180deg);
   transform-style: preserve-3d;
   filter: saturate(500%);
-  transition-duration: 2s;
-}
-.charname {
-  text-decoration: none;
-  font-size: 25px;
-  color: #e8eaec;
+  transition-duration: 3s;
 }
 .Characters-card {
   
@@ -169,27 +164,4 @@ body {
 @keyframes spin {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
-}
-
-  @media(max-width: 640px){
-    .Character-item{
-    display: grid;
-    grid-template-columns: repeat(auto-fill, 140px);
-    gap: 26px; 
-    }
-.Character-item img{
-width: 140px; 
-height: 140px;
-border-radius: 20px; 
-object-fit: cover;  
-}
-.charname {
-  text-decoration: none;
-  font-size: 13px;
-  color: #e8eaec;
-}
-.Header a {
-  display: grid;
-  grid-template-rows: 1fr 1fr;
-}
 }

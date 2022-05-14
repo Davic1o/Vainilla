@@ -3,9 +3,7 @@ const Header = () => {
     <div class="Header-main">
       <div class="Header-logo">
         <h1>
-          <a href="/">Wiky web de Rick y Morty
-            
-          </a>
+          <a href="https://flyclipart.com/es/funny-rick-and-morty-shirt-logo-rick-y-morty-land-outdoors-nature-hd-png-download-1256995" title="Descargar Png / Rick Y Morty Png"><img src="https://flyclipart.com/thumbs/funny-rick-and-morty-shirt-logo-rick-y-morty-1256995.png" width="350" /></a>
         </h1>
       </div>
       <div class="Header-nav">

@@ -86,8 +86,7 @@ body {
 }
 .charname {
   text-decoration: none;
-  font-size: 25px;
-  color: #e8eaec;
+  font-size: 12px;
 }
 .Characters-card {
   
@@ -182,14 +181,5 @@ width: 140px;
 height: 140px;
 border-radius: 20px; 
 object-fit: cover;  
-}
-.charname {
-  text-decoration: none;
-  font-size: 13px;
-  color: #e8eaec;
-}
-.Header a {
-  display: grid;
-  grid-template-rows: 1fr 1fr;
 }
 }

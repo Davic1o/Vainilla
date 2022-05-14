@@ -84,11 +84,6 @@ body {
   filter: saturate(500%);
   transition-duration: 2s;
 }
-.charname {
-  text-decoration: none;
-  font-size: 25px;
-  color: #e8eaec;
-}
 .Characters-card {
   
   text-decoration: none;
@@ -183,13 +178,5 @@ height: 140px;
 border-radius: 20px; 
 object-fit: cover;  
 }
-.charname {
-  text-decoration: none;
-  font-size: 13px;
-  color: #e8eaec;
-}
-.Header a {
-  display: grid;
-  grid-template-rows: 1fr 1fr;
 }
 }

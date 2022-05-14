@@ -3,7 +3,7 @@ const Header = () => {
     <div class="Header-main">
       <div class="Header-logo">
         <h1>
-          <a href="/">Wiky web de Rick y Morty
+          <a href="/"> <img src="/src/styles/img/kindpng_1567451.png" alt="">
             
           </a>
         </h1>

@@ -189,7 +189,6 @@ object-fit: cover;
   color: #e8eaec;
 }
 .Header a {
-  display: grid;
-  grid-template-rows: 1fr 1fr;
+  display: flex;
 }
 }

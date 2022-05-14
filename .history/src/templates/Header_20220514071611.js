@@ -3,7 +3,7 @@ const Header = () => {
     <div class="Header-main">
       <div class="Header-logo">
         <h1>
-          <a href="/">Wiky web de Rick y Morty
+          <a href="/"> <img src="https://static.wikia.nocookie.net/wiki-de-rick-morty/images/e/e6/Site-logo.png/revision/latest?cb=20210720140758&path-prefix=es" alt="">
             
           </a>
         </h1>
